@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cooljavabros.aternos.me",
+    "ip": "weasel.aternos.host",
     "port": 24095,
     "version": "",
     "try-creative": false
